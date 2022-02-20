@@ -1,0 +1,31 @@
+
+    /* margin-left: 10%;
+    color: darkblue;
+    text-align: center;
+    padding: 10%;
+    border: 1px solid grey;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    background:darkred; */
+
+.container{
+    border: 1px solid grey;
+    position: absolute;
+    align-items: center;
+    margin-left: 27%;
+    padding: 10%;
+    text-align: center;
+    justify-content: center;
+    background: linear-gradient(indigo, violet);
+    border: none;
+    color: #fff;
+    padding-top: 0%;
+
+}
+
+.content{
+    border-top: 1px solid black;
+    padding: 20%;
+}
